@@ -1,2 +1,6 @@
 # Lizzy-resolusi
-Repository untuk menyimpan rencana masa depan
+Lizzy resolusi
+- Saya ingin latihan lebih konsisten 3-5x seminggu
+- Istirahat dengan cukup 7-8 jam
+- Ingin menjadi orang sukses
+- Memperbanyak latihan beban
