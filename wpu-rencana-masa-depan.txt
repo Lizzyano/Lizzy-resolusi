@@ -3,7 +3,9 @@ RENCANA MASA DEPAN
 - KULIAH DAN KERJA
 * ES6
 * Framework Kuliah dan Kerja
-- MEMBAHAGIAKAN ORANG TUA
+  ^ Angular
+  ^ React
 - IMMO SEBELUM PKL
+  *Larvel
 - MENJADI PENGUSAHA
 - BEROTOT
