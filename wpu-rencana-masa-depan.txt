@@ -4,6 +4,7 @@ RENCANA MASA DEPAN
 * ES6
 * Framework Kuliah dan Kerja
   ^ Vue
+  ^ React
 - MEMBAHAGIAKAN ORANG TUA
 - IMMO SEBELUM PKL
   ^ Laravel
